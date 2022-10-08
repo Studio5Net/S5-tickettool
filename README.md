@@ -7,5 +7,5 @@ A Small but powerful DiscordJS V14 Ticket Bot
 [Vesturo](https://github.com/vesturo) &
 [Blankiiii](https://github.com/Blankiiii)
 
+![alt text](https://img.shields.io/badge/DiscordJS-V14-green)
 
-https://img.shields.io/badge/DiscordJS-V14-green
