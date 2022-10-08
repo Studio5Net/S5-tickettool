@@ -1,0 +1,10 @@
+{
+    "token":"BOT TOKEN",
+    "clientId":"BOT CLIENT ID",
+    "guildId":"GUILD ID",
+    "embedColor": "#022e75",
+	"ticketöffnenID": "ID CHANNEL WHERE EMBED WILL BE POSTED",
+    "parentID": "ID OF TICKET CATEGORY",
+    "everyoneRole": "EVERYONE ROLE ID",
+    "transcriptID": "ID OF CHANNEL WHERE TRANSCRIPT GETS POSTED"
+}

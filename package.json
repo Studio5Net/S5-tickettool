@@ -1,0 +1,23 @@
+{
+  "name": "s5-tickets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "--no-warnings index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nextools/suppress-experimental-warnings": "^0.1.0",
+    "discord-html-transcripts": "^3.1.0",
+    "discord.js": "^14.5.0",
+    "dotenv": "^16.0.3",
+    "fs": "^0.0.1-security",
+    "mysql": "^2.18.1",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "eslint": "^8.25.0"
+  }
+}
