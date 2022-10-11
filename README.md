@@ -4,7 +4,7 @@
 A Small but powerful DiscordJS V14 Ticket Bot
 
 ## changes made by Blank
-- added the permRole to the config.json file. if the permRole isnt set, the bot won't work
+- added the permRole to the config.json file. if the permRole isnt set, the commands won't work
 
 ## Made by
 [Vesturo](https://github.com/vesturo) &
