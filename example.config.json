@@ -3,8 +3,9 @@
     "clientId":"BOT CLIENT ID",
     "guildId":"GUILD ID",
     "embedColor": "#022e75",
-	"ticketöffnenID": "ID CHANNEL WHERE EMBED WILL BE POSTED",
+    "ticketöffnenID": "ID CHANNEL WHERE EMBED WILL BE POSTED",
     "parentID": "ID OF TICKET CATEGORY",
     "everyoneRole": "EVERYONE ROLE ID",
-    "transcriptID": "ID OF CHANNEL WHERE TRANSCRIPT GETS POSTED"
+    "transcriptID": "ID OF CHANNEL WHERE TRANSCRIPT GETS POSTED",
+    "permRole": "ID OF THE ROLE WHICH HAS THE PERMISSION TO USE THE COMMANDS"
 }
